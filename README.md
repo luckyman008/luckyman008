@@ -8,7 +8,7 @@ I've been coding since 2017 after changing my career from Commerce to Technology
 
 * 🌍  I'm based in Malaysia
 * 🖥️  See my portfolio at <a href="https://developershubhamkapoor.github.io/Portfolio/" target="_blank">Portfolio</a>
-* ✉️  You can contact me at [salman007299828@gmail.com](mailto:salman007299828@gmail.com)
+* ✉️  You can contact me at [lukman007299828@gmail.com](mailto:lukman007299828@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am addicted to Coding , Badminton and Sudoku
 
